@@ -2,7 +2,7 @@
 
 使用ツール
 
-Anaconda・・・機械学習ライブラリー及びPython3
+Anaconda・・・機械学習ライブラリー及びPython3,numpy,pandas
 
 https://www.continuum.io/downloads
 
