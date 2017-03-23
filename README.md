@@ -1,8 +1,8 @@
 機械学習（ランダムフォレスト）を使用したFXトレード（Python側）サンプル
 
-マシン環境・・・VPS、Ubuntu16.10,mem2G
+※マシン環境・・・VPS、Ubuntu16.10,mem2G
 
-使用ツール
+※使用ツール
 
 Anaconda・・・機械学習ライブラリー及びPython3,numpy,pandas
 
