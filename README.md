@@ -1,21 +1,23 @@
 
 FXの過去ローソク値（MySQL格納）を使用した、機械学習（ランダムフォレスト）結果のシリアライズ
 
-※マシン環境・・・VPS、Ubuntu16.10,mem2G
+※マシン環境
+
+  VPS、Ubuntu16.10,mem2G
 
 ※使用ツール
 
-Anaconda・・・機械学習ライブラリー及びPython3,numpy,pandas
+  Anaconda・・・機械学習ライブラリー及びPython3,numpy,pandas
 
-https://www.continuum.io/downloads
+       https://www.continuum.io/downloads
 
-TA-LIB・・・・ローソク足--->MA.Rsi等の指標算出
+  TA-LIB・・・・ローソク足--->MA.Rsi等の指標算出
 
-http://mrjbq7.github.io/ta-lib/install.html
+       http://mrjbq7.github.io/ta-lib/install.html
 
-Python-MySQL・・・MySQL操作
+   Python-MySQL・・・MySQL操作
 
- http://www.python-izm.com/contents/external/mysql.shtml
+       http://www.python-izm.com/contents/external/mysql.shtml
 
 ◎このサンプルソースは以下について掲載しております。
 
