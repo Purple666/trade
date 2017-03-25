@@ -19,7 +19,7 @@ Python-MySQL・・・MySQL操作
 
 ◎このサンプルソースは以下について掲載しております。
 
-※機械学習（参照・・・/Ind/main2.py)
+（参照・・・/Ind/main2.py)
 
 １．PythonからMySQLのFXのローソク足取得
 
